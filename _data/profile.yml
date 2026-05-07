@@ -76,11 +76,11 @@ portrait_caption: >-
 
 education:
 - name: National University of Singapore
-  logo: /assets/images/badges/usc.png
+  logo: /assets/images/badges/NUS_logo.png
   position: M.S. in Robotics
   date: Aug. 2025 - Jul. 2026
 - name: "Xi'an Jiaotong-Liverpool University"
-  logo: /assets/images/badges/NAU.png
+  logo: /assets/images/badges/XJTLU_logo.png
   position: B.Eng. in Computer Science and Technology
   date: Sep. 2021 - Jul. 2025
 
