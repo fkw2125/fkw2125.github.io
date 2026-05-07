@@ -75,18 +75,14 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
+- name: National University of Singapore
   logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
+  position: M.S. in Robotics
+  date: Aug. 2025 - Jul. 2026
+- name: "Xi'an Jiaotong-Liverpool University"
   logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+  position: B.Eng. in Computer Science and Technology
+  date: Sep. 2021 - Jul. 2025
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
